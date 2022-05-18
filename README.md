@@ -74,7 +74,7 @@
 
 <div>
  
-  ![Snake animation](https://github.com/MichaelBittencourt/MichaelBittencourt/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation Dark](https://github.com/MichaelBittencourt/MichaelBittencourt/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Snake animation](https://github.com/MichaelBittencourt/MichaelBittencourt/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 </div>
 
